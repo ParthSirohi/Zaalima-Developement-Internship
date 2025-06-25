@@ -1,5 +1,4 @@
-
-##📦 Amazon Sales Data Analytics – Internship Project @ Zaalima Development(End-to-End Project)
+# 📦 Amazon Sales Data Analytics – Internship Project @ Zaalima Development(End-to-End Project)
 
 This project presents a full-stack data analytics pipeline focused on Amazon Sales Data, developed as part of the Zaalima Development Internship Program. It integrates real-time data ingestion, streaming analytics, AI-powered predictive models, and interactive dashboards built with React and Power BI.
 📦 Project Components
@@ -56,6 +55,7 @@ Storage 	PostgreSQL, MongoDB
 ML & AI 	Scikit-learn, XGBoost, TensorFlow
 Dashboards 	Power BI, React + D3.js
 Reporting 	Pandas, ReportLab
+
 
 👤 Author
 Parth Sirohi

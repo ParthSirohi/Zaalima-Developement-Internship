@@ -46,15 +46,18 @@ This project presents a full-stack data analytics pipeline focused on Amazon Sal
         Predictive insights
         Product performance heatmaps
 
-🛠️ Tech Stack Summary
-Layer 	Tools/Tech
-Ingestion 	Apache Kafka, Python
-Streaming 	Apache Spark Structured Streaming
-Orchestration 	Apache Airflow
-Storage 	PostgreSQL, MongoDB
-ML & AI 	Scikit-learn, XGBoost, TensorFlow
-Dashboards 	Power BI, React + D3.js
-Reporting 	Pandas, ReportLab
+## 🛠️ Tech Stack Summary
+
+| Layer           | Tools/Tech                                 |
+|------------------|---------------------------------------------|
+| Ingestion        | Apache Kafka, Python                        |
+| Streaming        | Apache Spark Structured Streaming           |
+| Orchestration    | Apache Airflow                              |
+| Storage          | PostgreSQL, MongoDB                         |
+| ML & AI          | Scikit-learn, XGBoost, TensorFlow           |
+| Dashboards       | Power BI, React + D3.js                     |
+| Reporting        | Pandas, ReportLab                           |
+
 
 
 👤 Author
